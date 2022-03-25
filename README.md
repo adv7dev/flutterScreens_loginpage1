@@ -1,6 +1,6 @@
-# flutterscreens-login1
+# Flutter Screens - Login Page 1
 
-Tela de cadastro  de usuário e de login. 
+Tela de cadastro  de usuário e de Conecte-se. 
 
 ### Importante:
 
