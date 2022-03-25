@@ -29,5 +29,10 @@ Tela de login:
 ![alt text](https://github.com/adv7dev/flutterScreens_loginpage1/blob/master/assets/images/Screens%20Login%20page.jpg)
 
 
+Tela de Create Account: 
+![alt text](https://github.com/adv7dev/flutterScreens_loginpage1/blob/master/assets/images/Screens%20Create%20Accunt%20page.jpg)
+
+
+
 
 
