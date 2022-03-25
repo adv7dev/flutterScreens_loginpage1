@@ -25,7 +25,7 @@ Projeto Criado por Diego Silva:
 Screenshots:
 
 Tela de login: 
-![alt text](https://github.com/adv7dev/flutterScreens_loginpage1/blob/master/assets/images/Screenshot_2022-03-25-11-11-05-460_com.flutterscreens.login.jpg?raw=true)
+![alt text](https://github.com/adv7dev/flutterScreens_loginpage1/blob/master/assets/images/Screens%20Login%20page.jpg)
 
 
 
